@@ -1,0 +1,33 @@
+body
+{
+  padding: 15%;
+  padding-top: 15%;
+  background-image: url("../img/logo.png");
+  background-repeat: repeat;
+  background-color: #cccccc;
+}
+
+
+div.faucet
+{
+  margin: 0 auto;
+  width: 80%;
+  height: 80%;
+  background-color: white;
+  border-radius: 50px;
+  text-align: center;
+}
+
+h1.titre {
+	font-size: 50px
+}
+
+div.valide
+{
+  margin: 0 auto;
+  width: 50%;
+  height: 50%;
+  background-color: white;
+  border-radius: 50px;
+  text-align: center;
+}
